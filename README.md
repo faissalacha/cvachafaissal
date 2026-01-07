@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="linkedin.com/in/faissal-a-a1900638" target="_blank">
@@ -13,15 +13,15 @@
   </a>
 </div>
 
-###
+
 
 <h1 align="center">hey there 👋</h1>
 
-###
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+
 
 <div align="center">
   <img height="200" src="https://ik.imagekit.io/fqqwh4glr/personal%20Faissal%20Image%20cv/fa2.png"  />
@@ -31,11 +31,11 @@
 
 <p align="left">I'm ACHA FAISSAL<br><br>- 🔭 I’m working as System engineer Support <br>- 📚 I'm currently learning Java Azure administration <br>- ⚡ In my free time i keep learning</p>
 
-###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
@@ -51,18 +51,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
 
-###
+
 
 <h3 align="left">🔥   My Stats :<br>IT Engineer<br>10+ Years Experience in Onsite IT Support<br>Hardware • Software • Network Support</h3>
 
-###
+
 
 <p align="left">https://itgen80.wordpress.com/<br><br>https://sites.google.com/view/achafaissal/cv</p>
 
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=faissalacha.faissalacha&"  />
 </div>
 
-###
+
