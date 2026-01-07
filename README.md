@@ -47,6 +47,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats :<br>IT Engineer<br>10+ Years Experience in Onsite IT Support<br>Hardware • Software • Network Support</h3>
 
 ###
