@@ -23,6 +23,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://ik.imagekit.io/fqqwh4glr/personal%20Faissal%20Image%20cv/fa2.png"  />
+</div>
+
+###
+
 <p align="left">I'm ACHA FAISSAL<br><br>- 🔭 I’m working as System engineer Support <br>- 📚 I'm currently learning Java Azure administration <br>- ⚡ In my free time i keep learning</p>
 
 ###
@@ -55,10 +61,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/faissalacha/faissalacha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/faissalacha/faissalacha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/faissalacha/faissalacha/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=faissalacha.faissalacha&"  />
+</div>
 
 ###
