@@ -57,7 +57,7 @@
 
 ###
 
-<p align="left">https://itgen80.wordpress.com/</p>
+<p align="left">https://itgen80.wordpress.com/<br><br>https://sites.google.com/view/achafaissal/cv</p>
 
 ###
 
